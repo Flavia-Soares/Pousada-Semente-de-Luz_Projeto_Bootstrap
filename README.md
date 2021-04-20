@@ -1,6 +1,6 @@
 # Pousada Semente de Luz - Projeto final de Bootstrap
 
-<h1>Requisitos</h1>
+#Requisitos do Projeto
 
 <p>Será feito um projeto para criação/renovação do site principal do negocio do parceiro local , tendo em vista que hoje a grande parte dos empreendedores não dispõe de conhecimento e/ou so investem em plataformas comuns(instagram , facebook ,etc) será um projeto preparatorio para o projeto final , lembrando os sites aqui desenvolvidos serão utilizados para avaliação e validação tanto do time SOULCODE como tambem para com os parceiros. </p>
 
